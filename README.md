@@ -42,7 +42,7 @@ A simple Arduino-based project for monitoring beehive conditions and activity. I
      - Logs whether a bee was detected and updates the total bee count.
   3. **Update the LCD Screen:**
      - Displays real-time temperature, humidity, and bee count information.
-     - 
+     
 ## User Feedback
 - **LCD Screen:** Provides a visual display of hive conditions and bee count.
 - **Serial Monitor:** Logs detailed readings and events, including:
