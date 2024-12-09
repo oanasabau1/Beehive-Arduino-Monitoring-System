@@ -72,4 +72,20 @@ This system is ideal for beekeepers looking to:
    - Connecting wires
    - Breadboard
 
+## Project Demonstration
+
+In this section I will include diagrams, pictures of the project and a short video demonstrating its functionality.
+
+![Incredible Krunk-Elzing](https://github.com/user-attachments/assets/6175d0e7-77a3-4637-91df-a44e566f77b6)
+
+
+![IMG-20241210-WA0003](https://github.com/user-attachments/assets/39ffa342-9a9a-4784-803f-4cb2aeb84d50)
+
+
+https://github.com/user-attachments/assets/e8c8be85-2ac7-4e6f-937e-9c2d4b59ddca
+
+
+
+
+
 
