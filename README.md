@@ -66,6 +66,7 @@ This system is ideal for beekeepers looking to:
 
    - Arduino Uno R3 board
    - DHT11 temperature and humidity sensor
+   - 10 kΩ Resistor
    - IR sensor (HW 870)
    - LCD screen (I2C-compatible)
    - Connecting wires
