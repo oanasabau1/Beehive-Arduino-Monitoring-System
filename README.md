@@ -74,7 +74,7 @@ This system is ideal for beekeepers looking to:
 
 ## Project Demonstration
 
-In this section I will include diagrams, pictures of the project and a short video demonstrating its functionality.
+In this section I will include a schema for Tinkercad, pictures of the project and a short video demonstrating its functionality.
 
 ![Incredible Krunk-Elzing](https://github.com/user-attachments/assets/6175d0e7-77a3-4637-91df-a44e566f77b6)
 
